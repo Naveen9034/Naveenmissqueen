@@ -1,7 +1,7 @@
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Updates
+# Join @Ashif903 For Hacks
+# Join Our Chats @ODDRAGONS & @mr_naveen720 
 
 from pyrogram import filters
 from pyrogram.types import Message
@@ -33,7 +33,7 @@ async def unmute_admin(Client, message: Message, _, chat_id):
 
 
 
-# PoweredBy @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Updates
+# Join @Ashif903 For Hacks
+# Join Our Chats @ODDRAGONS & @mr_naveen720 
