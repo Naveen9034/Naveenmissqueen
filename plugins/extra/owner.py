@@ -17,18 +17,18 @@ async def owner(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥀 𝐁𝐢𝐤𝐚𝐬𝐡 🥀", url=f"https://t.me/BikashHalder")
+                        "🥀 𝐍𝐚𝐯𝐞𝐞𝐧 🥀", url=f"https://t.me/mr_naveen720")
             ],          
             [
                     InlineKeyboardButton(
-                        "🥀 𝐊𝐚𝐚𝐥 🥀", url=f"https://t.me/AdityaHalder")
+                        "🥀 𝐀𝐬𝐢𝐟 🥀", url=f"https://t.me/ashif903")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/Bgt_Chat"
+                        "🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/ODDRAGONS"
                     ),
                     InlineKeyboardButton(
-                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/BikashGadgetsTech")
+                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/DragonaboutDpz")
                 ]
             ]
         ),
