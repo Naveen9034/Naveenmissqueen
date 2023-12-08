@@ -1,8 +1,8 @@
 
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Updates
-# Join @AdityaCheats For Hacks
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Updates
+# Join @Ashif903 For Hacks
+# Join Our Chats @ODDRAGONS & @mr_naveen720 
 
 import random
 
@@ -47,7 +47,7 @@ async def admins(Client, message: Message, _, chat_id):
 
 
 
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Updates
-# Join @AdityaCheats For Hacks
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Updates
+# Join @Ashif903 For Hacks
+# Join Our Chats @ODDRAGONS & @mr_naveen720 
