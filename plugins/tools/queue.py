@@ -98,7 +98,7 @@ async def ping_com(client, message: Message, _):
 ▷**𝐓𝐢𝐭𝐥𝐞:** {title}
 
 ☘**𝐓𝐲𝐩𝐞:** {typo}
-💖**𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲:** {user}
+🔍**𝐊𝐚𝐛𝐡𝐢 𝐤𝐡𝐮𝐝 𝐠𝐚𝐥𝐨:** {user}
 {send}"""
     upl = (
         queue_markup(_, DUR, "c" if cplay else "g", videoid)
@@ -186,7 +186,7 @@ async def queued_tracks(client, CallbackQuery: CallbackQuery, _):
     basic[videoid] = False
     buttons = queue_back_markup(_, what)
     med = InputMediaPhoto(
-        media="https://telegra.ph//file/6f7d35131f69951c74ee5.jpg",
+        media="https://telegra.ph/file/176da2b6ce5fe747adc1b.jpg",
         caption=_["queue_1"],
     )
     await CallbackQuery.edit_message_media(media=med)
@@ -279,7 +279,7 @@ async def queue_back(client, CallbackQuery: CallbackQuery, _):
 ▷ **𝐓𝐢𝐭𝐥𝐞:** {title}
 
 ☘ **𝐓𝐲𝐩𝐞:** {typo}
-💖 **𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲 :** {user}
+🔍 **𝐊𝐚𝐛𝐡𝐢 𝐤𝐡𝐮𝐝 𝐠𝐚𝐥𝐨 :** {user}
 {send}"""
     upl = (
         queue_markup(_, DUR, cplay, videoid)
