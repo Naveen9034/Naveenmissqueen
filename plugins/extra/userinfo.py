@@ -1,4 +1,4 @@
-## Bikash Halder & Aditya Halder
+## ASIF MAHAMMAF & NAVEEN DASH
 
 from Bikash import app
 from pyrogram import filters
