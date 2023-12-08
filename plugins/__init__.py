@@ -1,7 +1,7 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Update
+# Join @ashif903 For Hack
+# Join Our Chats @ODDRAGONS & @mr_naveen720 
 
 import glob
 from os.path import dirname, isfile
@@ -27,7 +27,7 @@ __all__ = ALL_MODULES + ["ALL_MODULES"]
 
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Update
+# Join @ashif903 For Hack
+# Join Our Chats @ODDRAGONS & @mr_naveen720
