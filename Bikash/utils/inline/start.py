@@ -10,7 +10,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🥀 ❰ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 ❱ 💥",
+                text="🥀 ❰ 𝐉𝐨𝐡𝐮𝐤𝐮𝐦 ❱ 💥",
                 url=f"https://t.me/{BOT_USERNAME}?start=help",
             )
         ],
@@ -21,15 +21,15 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=f"https://t.me/ODDRAGONS"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=f"https://t.me/ODDRAGONS"
             )
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📱 𝐆𝐫𝐨𝐮𝐩 📱", url=f"https://t.me/ODDRAGONS"
             )
         ],
      ]
@@ -40,7 +40,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="➕ ❰ 𝐀𝐝𝐝 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕",
+                text="➕ ❰ 𝐉𝐚𝐧𝐚 𝐍𝐞𝐢𝐤𝐢 𝐉𝐚𝐨 ❱ ➕",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
@@ -51,20 +51,20 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💥", url=config.SUPPORT_CHANNEL
+                text="🥀 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💥", url=f"https://t.me/ODDRAGONS"
             ),
             InlineKeyboardButton(
-                text="🥀 𝐆𝐫𝐨𝐮𝐩 💥", url=config.SUPPORT_GROUP
+                text="🥀 𝐆𝐫𝐨𝐮𝐩 💥", url=f"https://t.me/ODDRAGONS"
             )
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📱 𝐆𝐫𝐨𝐮𝐩 📱", url=f"https://t.me/ODDRAGONS"
             )
         ],
         [
             InlineKeyboardButton(
-                text="♕ 𝐎𝐰𝐧𝐞𝐫 ♕", user_id=OWNER
+                text="♕ 𝐁𝐚𝐚𝐩 ♕", user_id=OWNER
             )
         ]
      ]
