@@ -1,7 +1,7 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Update
+# Join @ashif903 For Hack
+# Join Our Chats @ODDRAGONS & @mr_naveen720 
 
 from pykeyboard import InlineKeyboard
 from pyrogram import filters
@@ -101,7 +101,7 @@ async def language_markup(client, CallbackQuery, _):
 
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Update
+# Join @ashif903 For Hack
+# Join Our Chats @ODDRAGONS & @mr_naveen720 
