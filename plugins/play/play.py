@@ -1,4 +1,4 @@
-## Powered by Aditya & Bikash Halder 
+## Powered by asif & naveen dash 
 
 import random
 from Bikash import Bgt
