@@ -1,7 +1,7 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By# Power By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Update
+# Join @ashif903 For Hack
+# Join Our Chats @ODDRAGONS & @mr_naveen720 
 
 from pyrogram import Client, filters
 
@@ -22,24 +22,24 @@ async def repo(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥀 𝐑𝐞𝐩𝐨 🥀", url=f"https://github.com/BikashHalderNew")
+                        "🥀 𝐑𝐞𝐩𝐨 🥀", url=f"https://t.me/ashif903")
             ],          
             [
                     InlineKeyboardButton(
-                        "🥀 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧 🥀", url=f"https://t.me/BgtPromote")
+                        "🥀 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧 🥀", url=f"https//t.me/ashif903")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/Bgt_Chat"
+                        "🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/ODDRAGONS"
                     ),
                     InlineKeyboardButton(
-                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/BikashGadgetsTech")
+                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/DragonaboutDpz")
                 ]
             ]
         ),
     ) 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @ashif903 & @mr_naveen720 
+# Join @ODDRAGONS For More Update
+# Join @ashif903 For Hack
+# Join Our Chats @ODDRAGONS & @mr_naveen720
