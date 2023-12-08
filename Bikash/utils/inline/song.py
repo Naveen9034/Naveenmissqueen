@@ -15,12 +15,12 @@ def song_markup(_, vidid):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📱 𝐆𝐫𝐨𝐮𝐩 📱", url=f"url=f"https://t.me/ODDRAGONS""
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"{config.SUPPORT_GROUP}",
+                text="🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"{https://t.me/ODDRAGONS}",
             ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"], callback_data="close"
