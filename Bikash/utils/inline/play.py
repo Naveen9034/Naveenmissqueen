@@ -65,10 +65,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=f"https://t.me/ODDRAGONS"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=f"https://t.me/ODDRAGONS"
             )
         ],
         [           
@@ -212,10 +212,10 @@ def telegram_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=f"https://t.me/ODDRAGONS"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=f"https://t.me/ODDRAGONS"
             )
         ],
         [           
@@ -292,7 +292,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         [
             InlineKeyboardButton(
                 text=_["S_B_3"],
-                url=f"{config.SUPPORT_GROUP}",
+                url=f"{https://t.me/ODDRAGONS}",
             ),
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"],
@@ -384,10 +384,10 @@ def queue_markup(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=f"https://t.me/ODDRAGONS"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=f"https://t.me/ODDRAGONS"
             )
         ],
         [           
@@ -430,10 +430,10 @@ def telegram_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=f"https://t.me/ODDRAGONS"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=f"https://t.me/ODDRAGONS"
             )
         ],
         [           
